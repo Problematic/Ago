@@ -1,0 +1,22 @@
+{
+  "name": "Ago",
+  "version": "0.1.0",
+  "description": "Pretty \"5 minutes ago\"-type strings from JavaScript Date objects",
+  "homepage": "https://github.com/Problematic/Ago",
+  "main": "lib/Ago",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Problematic/Ago.git"
+  },
+  "author": "Derek Stobbe",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Problematic/Ago/blob/master/LICENSE"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
