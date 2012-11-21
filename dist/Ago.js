@@ -1,4 +1,4 @@
-/*! Ago - v0.1.0 - 2012-11-20
+/*! Ago - v0.1.1 - 2012-11-20
 * https://github.com/Problematic/Ago
 * Copyright (c) 2012 Derek Stobbe; Licensed MIT */
 
@@ -67,6 +67,11 @@
 
             return ago.humanize(this);
         };
+
+        Object.defineProperty(Date.prototype, 'ago', {
+            configurable: true,
+            enumerable: false
+        });
     }
 
     /* Utility stuff */

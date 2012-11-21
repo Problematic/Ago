@@ -1,6 +1,6 @@
 {
   "name": "Ago",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pretty \"5 minutes ago\"-type strings from JavaScript Date objects",
   "homepage": "https://github.com/Problematic/Ago",
   "main": "lib/Ago",
