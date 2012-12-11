@@ -1,0 +1,1 @@
+### This is a proof of concept; please do not use it for serious business. If you're looking for a library with similar (and more) functionality, check out [moment.js](https://github.com/timrwood/moment/).
